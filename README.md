@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://demo-404-notfound.netlify.app/">
       Solution
     </a>
     <span> | </span>
